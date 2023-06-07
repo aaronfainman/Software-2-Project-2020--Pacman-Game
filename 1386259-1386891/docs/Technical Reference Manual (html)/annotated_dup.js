@@ -1,0 +1,26 @@
+var annotated_dup =
+[
+    [ "Catcher", "class_catcher.html", "class_catcher" ],
+    [ "CatcherMovement", "class_catcher_movement.html", "class_catcher_movement" ],
+    [ "Character", "class_character.html", "class_character" ],
+    [ "Collisions", "class_collisions.html", "class_collisions" ],
+    [ "Dog", "class_dog.html", "class_dog" ],
+    [ "Drawable", "class_drawable.html", "class_drawable" ],
+    [ "fileCantBeOpened", "classfile_cant_be_opened.html", null ],
+    [ "FileReader", "class_file_reader.html", "class_file_reader" ],
+    [ "Game", "class_game.html", "class_game" ],
+    [ "GameActive", "class_game_active.html", "class_game_active" ],
+    [ "GameOver", "class_game_over.html", "class_game_over" ],
+    [ "GamePaused", "class_game_paused.html", "class_game_paused" ],
+    [ "GameStart", "class_game_start.html", "class_game_start" ],
+    [ "GameState", "class_game_state.html", "class_game_state" ],
+    [ "GameSteak", "class_game_steak.html", "class_game_steak" ],
+    [ "GridPosition", "class_grid_position.html", "class_grid_position" ],
+    [ "Maze", "class_maze.html", "class_maze" ],
+    [ "moreThanOneDogStart", "classmore_than_one_dog_start.html", null ],
+    [ "Movement", "class_movement.html", "class_movement" ],
+    [ "Position", "class_position.html", "class_position" ],
+    [ "Score", "class_score.html", "class_score" ],
+    [ "Screen", "class_screen.html", "class_screen" ],
+    [ "UserInput", "class_user_input.html", "class_user_input" ]
+];

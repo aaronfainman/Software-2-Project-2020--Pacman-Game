@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Super-Pac-Man" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="../../1386259-1386891/executables/Super-Pac-Man" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="../../1386259-1386891/executables" />
+				<Option object_output="obj/Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="../../../../CppLibraries/SFML-2.5.1/lib/libsfml-audio.a" />
+					<Add library="../../../../CppLibraries/SFML-2.5.1/lib/libsfml-graphics.a" />
+					<Add library="../../../../CppLibraries/SFML-2.5.1/lib/libsfml-system.a" />
+					<Add library="../../../../CppLibraries/SFML-2.5.1/lib/libsfml-window.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Super-Pac-Man" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="../../project-repo/game-source-code" />
+		</Compiler>
+		<Unit filename="../../project-repo/game-source-code/Catcher.cpp" />
+		<Unit filename="../../project-repo/game-source-code/Catcher.h" />
+		<Unit filename="../../project-repo/game-source-code/CatcherMovement.cpp" />
+		<Unit filename="../../project-repo/game-source-code/CatcherMovement.h" />
+		<Unit filename="../../project-repo/game-source-code/Character.h" />
+		<Unit filename="../../project-repo/game-source-code/Collisions.cpp" />
+		<Unit filename="../../project-repo/game-source-code/Collisions.h" />
+		<Unit filename="../../project-repo/game-source-code/CommonConstants.h" />
+		<Unit filename="../../project-repo/game-source-code/Dog.cpp" />
+		<Unit filename="../../project-repo/game-source-code/Dog.h" />
+		<Unit filename="../../project-repo/game-source-code/Drawable.h" />
+		<Unit filename="../../project-repo/game-source-code/Game.cpp" />
+		<Unit filename="../../project-repo/game-source-code/Game.h" />
+		<Unit filename="../../project-repo/game-source-code/GameActive.cpp" />
+		<Unit filename="../../project-repo/game-source-code/GameActive.h" />
+		<Unit filename="../../project-repo/game-source-code/GameOver.cpp" />
+		<Unit filename="../../project-repo/game-source-code/GameOver.h" />
+		<Unit filename="../../project-repo/game-source-code/GamePaused.cpp" />
+		<Unit filename="../../project-repo/game-source-code/GamePaused.h" />
+		<Unit filename="../../project-repo/game-source-code/GameStart.cpp" />
+		<Unit filename="../../project-repo/game-source-code/GameStart.h" />
+		<Unit filename="../../project-repo/game-source-code/GameState.h" />
+		<Unit filename="../../project-repo/game-source-code/GameSteak.cpp" />
+		<Unit filename="../../project-repo/game-source-code/GameSteak.h" />
+		<Unit filename="../../project-repo/game-source-code/GridPosition.cpp" />
+		<Unit filename="../../project-repo/game-source-code/GridPosition.h" />
+		<Unit filename="../../project-repo/game-source-code/Movement.cpp" />
+		<Unit filename="../../project-repo/game-source-code/Movement.h" />
+		<Unit filename="../../project-repo/game-source-code/Position.cpp" />
+		<Unit filename="../../project-repo/game-source-code/Position.h" />
+		<Unit filename="../../project-repo/game-source-code/Score.cpp" />
+		<Unit filename="../../project-repo/game-source-code/Score.h" />
+		<Unit filename="../../project-repo/game-source-code/Screen.cpp" />
+		<Unit filename="../../project-repo/game-source-code/Screen.h" />
+		<Unit filename="../../project-repo/game-source-code/UserInput.cpp" />
+		<Unit filename="../../project-repo/game-source-code/UserInput.h" />
+		<Unit filename="../../project-repo/game-source-code/fileReader.cpp" />
+		<Unit filename="../../project-repo/game-source-code/fileReader.h" />
+		<Unit filename="../../project-repo/game-source-code/main.cpp" />
+		<Unit filename="../../project-repo/game-source-code/maze.cpp" />
+		<Unit filename="../../project-repo/game-source-code/maze.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

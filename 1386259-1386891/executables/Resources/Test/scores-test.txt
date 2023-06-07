@@ -1,0 +1,3 @@
+Person 1|10000
+Person 2|8000
+Person 3|5000
