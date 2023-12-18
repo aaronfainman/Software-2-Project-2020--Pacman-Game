@@ -13,5 +13,16 @@ Think you have the bones to beat the dog catchers? The steaks are set medium-rar
 
 The technical documentation can be found in docs >> Technical Reference Manual (html) while the full report can be found in docs >> Project Report.pdf which explains all technical decisions behind the design of the game. 
 
+## Screenshots 
+### Start Screen
+![menu](https://github.com/TaliWeinstein/Software-2-Project-2020--Pacman-Game/assets/40351181/c52f057c-b3ae-4b0f-a4d8-b55a9dbe4b76)
+
+## Game Play Screen
+![gameMode](https://github.com/TaliWeinstein/Software-2-Project-2020--Pacman-Game/assets/40351181/15829ea0-8be6-4c50-b6cf-50019d9591ed)
+
+## End Game Screen
+![endGameMenu](https://github.com/TaliWeinstein/Software-2-Project-2020--Pacman-Game/assets/40351181/dc21a426-af2a-42ae-9fed-3aebb3ca4673)
+
+
 
 
